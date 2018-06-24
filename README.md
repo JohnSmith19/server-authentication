@@ -61,3 +61,5 @@ $ npm install passport-local
 ### [18. Protecting Signin Route](https://github.com/JohnSmith19/server-authentication/commit/13a9e9df79e047fed7ba8552ddbfba01a9d6b30c)
 
 ### [19. Signing Users In](https://github.com/JohnSmith19/server-authentication/commit/ac372e260b659f54f57135c68afa17a17b729301)
+
+### [20. Solution to CORS Errors](https://github.com/JohnSmith19/server-authentication/commit/195036b4d4bc2dd52fbf8ad7d2574692f6302468)
