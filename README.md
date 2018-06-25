@@ -1,6 +1,8 @@
 # Server Authentication with JWT
 
-Express - Server Authentication with JWT
+[Express - Server Authentication with JWT](https://github.com/JohnSmith19/server-authentication)
+
+[React - Client Authentication with JWT](https://github.com/JohnSmith19/client-authentication)
 
 ### [1. Server Setup](https://github.com/JohnSmith19/server-authentication/blob/13212783fba17665a7cf6b15982ed6caa2c67834/package.json)
 
